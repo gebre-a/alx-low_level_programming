@@ -1,4 +1,4 @@
-#include <stdio.h>
+with proper grammar, but the outcome is a piece of art,#include <stdio.h>
 /**
 * main - A program that prints a line using the printf function
 * Return: 0 (success)
