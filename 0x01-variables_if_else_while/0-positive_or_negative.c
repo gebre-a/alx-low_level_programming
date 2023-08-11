@@ -1,9 +1,10 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
- #include <stdio.h>
 /**
   * main - entry point
   * Return: 0 (success)
+  * Descrition - if elase statment
   */
 int main(void)
 {
@@ -24,4 +25,4 @@ int main(void)
 		printf("%d is negative\n", n);
 	}
 	return (0);
-} 
+}
