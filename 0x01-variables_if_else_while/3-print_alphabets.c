@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point 
+ * main - entry point
  * Description: Print the alphabet in lowercase and uppercase on same line
  * using putchar only thrice, followed by new line
  * Return: 0 (success)
